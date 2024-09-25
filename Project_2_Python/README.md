@@ -25,7 +25,7 @@ In this project, I have made use of Python to explore data related to bikeshare 
 ***
 
 ## Project files
-- **code.py** - final project
+- **bikeshare.py** - final project
 - **chicago.zip** - dataset used for analysis (zipped csv file)
 - **new_york_city.zip** - dataset used for analysis (zipped csv file)
 - **washington.zip** - dataset used for analysis (zipped csv file)
